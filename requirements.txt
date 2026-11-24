@@ -27,7 +27,7 @@ Pillow==9.5.0
 portalocker==2.7.0
 protobuf==4.23.0
 pycodestyle==2.10.0
-pydantic==1.10.7
+pydantic==1.10.13
 PyQt3D==5.15.5
 PyQt5==5.15.7
 PyQt5-sip==12.11.0
